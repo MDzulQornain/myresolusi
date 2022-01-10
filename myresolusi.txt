@@ -1,5 +1,6 @@
 myResolusi
 -Sinau
+ Fisika
 -ngaji
 -makan
 -mandi
