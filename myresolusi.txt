@@ -1,7 +1,9 @@
 myResolusi
 -Sinau
  Fisika
+ pemograman
  kitab
 -ngaji
 -makan
 -mandi
+-kursus
