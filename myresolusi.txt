@@ -1,6 +1,7 @@
 myResolusi
 -Sinau
  Fisika
+ -dolan
 -ngaji
 -makan
 -mandi
